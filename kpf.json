@@ -1,0 +1,62 @@
+{
+    "buildingModel": {
+      "source": "model",
+      "scale": "1",
+      "spheres": [
+        {
+          "position": "[0.2,0,0.2]",
+          "scale": "1",
+          "Images": [
+            {
+              "source": "Pano0_1"
+            },
+            {
+              "source": "Pano0_2"
+            },
+            {
+              "source": "Pano0_3"
+            },
+            {
+              "source": "Pano0_4"
+            }
+          ]
+        },
+        {
+          "position": "[-0.2,0,0.2]",
+          "scale": "1",
+          "Images": [
+            {
+              "source": "Pano1_1"
+            },
+            {
+              "source": "Pano1_2"
+            },
+            {
+              "source": "Pano1_3"
+            },
+            {
+              "source": "Pano1_4"
+            }
+          ]
+        },
+        {
+          "position": "[-0.2,0,-0.2]",
+          "scale": "1",
+          "Images": [
+            {
+              "source": "Pano2_1"
+            },
+            {
+              "source": "Pano2_2"
+            },
+            {
+              "source": "Pano2_3"
+            },
+            {
+              "source": "Pano1_4"
+            }
+          ]
+        }
+      ]
+    }
+  }
