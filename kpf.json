@@ -8,19 +8,19 @@
           "scale": "1",
           "Images": [
             {
-              "name": "Convergence",
+              "name": "OPTION 1: CONVERGENCE",
               "source": "Pano0_1"
             },
             {
-              "name": "Oculus",
+              "name": "OPTION 2: OCULUS",
               "source": "Pano0_2"
             },
             {
-              "name": "Ribbon",
+              "name": "OPTION 3: RIBBON",
               "source": "Pano0_3"
             },
             {
-              "name": "Galleria",
+              "name": "OPTION 4: GALLERIA",
               "source": "Pano0_4"
             }
           ]
@@ -30,19 +30,19 @@
           "scale": "1",
           "Images": [
             {
-              "name": "Convergence",
+              "name": "OPTION 1: CONVERGENCE",
               "source": "Pano1_1"
             },
             {
-              "name": "Oculus",
+              "name": "OPTION 2: OCULUS",
               "source": "Pano1_2"
             },
             {
-              "name": "Ribbon",
+              "name": "OPTION 3: RIBBON",
               "source": "Pano1_3"
             },
             {
-              "name": "Galleria",
+              "name": "OPTION 4: GALLERIA",
               "source": "Pano1_4"
             }
           ]
@@ -52,19 +52,19 @@
           "scale": "1",
           "Images": [
             {
-              "name": "Convergence",
+              "name": "OPTION 1: CONVERGENCE",
               "source": "Pano2_1"
             },
             {
-              "name": "Oculus",
+              "name": "OPTION 2: OCULUS",
               "source": "Pano2_2"
             },
             {
-              "name": "Ribbon",
+              "name": "OPTION 3: RIBBON",
               "source": "Pano2_3"
             },
             {
-              "name": "Galleria",
+              "name": "OPTION 4: GALLERIA",
               "source": "Pano1_4"
             }
           ]
