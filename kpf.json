@@ -8,15 +8,19 @@
           "scale": "1",
           "Images": [
             {
+              "name": "Convergence",
               "source": "Pano0_1"
             },
             {
+              "name": "Oculus",
               "source": "Pano0_2"
             },
             {
+              "name": "Ribbon",
               "source": "Pano0_3"
             },
             {
+              "name": "Galleria",
               "source": "Pano0_4"
             }
           ]
@@ -26,15 +30,19 @@
           "scale": "1",
           "Images": [
             {
+              "name": "Convergence",
               "source": "Pano1_1"
             },
             {
+              "name": "Oculus",
               "source": "Pano1_2"
             },
             {
+              "name": "Ribbon",
               "source": "Pano1_3"
             },
             {
+              "name": "Galleria",
               "source": "Pano1_4"
             }
           ]
@@ -44,15 +52,19 @@
           "scale": "1",
           "Images": [
             {
+              "name": "Convergence",
               "source": "Pano2_1"
             },
             {
+              "name": "Oculus",
               "source": "Pano2_2"
             },
             {
+              "name": "Ribbon",
               "source": "Pano2_3"
             },
             {
+              "name": "Galleria",
               "source": "Pano1_4"
             }
           ]
